@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+.ms-navbar {
+	background-color: transparent !important;
+	color:#9e9e9e!important;
+}
+.ms-header-logo {
+	margin-top:-6px;
+	height:50px;
+}
+.ms-main-content {
+	height: 100%;
+	width: 100%;
+    background-image: url('../images/milkSplash.jpg');	
+    background-size: cover
+}
